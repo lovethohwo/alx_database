@@ -1,3 +1,5 @@
+-- Show Databases
+
 -- Show Databases present in the server
 mysql> SHOW DATABASES;
 /*
