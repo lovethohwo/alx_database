@@ -1,6 +1,6 @@
 -- Select all fields in a table
 SELECT *
-FROM hbtn_0c_0.first_table;
+FROM hbtn_test_db_5.first_table;
 
 /*
 *** BELOW IS THE RESULT ***
