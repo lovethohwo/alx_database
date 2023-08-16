@@ -1,4 +1,4 @@
--- First create the table
+-- First create a new table
 CREATE TABLE IF NOT EXISTS
 hbtn_0c_0.second_table (id INT,
 name VARCHAR(256),
