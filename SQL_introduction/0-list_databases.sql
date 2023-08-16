@@ -1,4 +1,5 @@
 mysql> show databases;
+/*
 +--------------------+
 | Database           |
 +--------------------+
@@ -10,3 +11,4 @@ mysql> show databases;
 | world              |
 +--------------------+
 6 rows in set (0.05 sec)
+*/
