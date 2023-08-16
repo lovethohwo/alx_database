@@ -1,9 +1,4 @@
--- Show Databases
-
--- Connect to database
--h localhost -u root -p
-
--- Enter password:
+-- List databases
 
 -- Show Databases present in the server
 SHOW DATABASES;
