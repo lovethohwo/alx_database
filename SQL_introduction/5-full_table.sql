@@ -1,15 +1,12 @@
--- Describe a table
+-- FULL DESCRIPTION OF A TABLE
 
 CREATE DATABASE IF NOT EXISTS hbtn_test_db_5;
 CREATE TABLE IF NOT EXISTS
    hbtn_test_db_5.first_table
-    (id INT,
-    name VARCHAR(256)
-    );
-
-USE hbtn_test_db_5;
-
-DESC first_table;
+    (id INT(11) NOT NULL AUTO_INCREMENT,
+    name VARCHAR(128) DEFAULT NULL,
+    ENGINE=InnoDB DEFAULT CHARSET=latin1
+);
 
 /*
 *** BELOW IS THE RESULT ***
