@@ -1,7 +1,15 @@
 -- Show Databases
 
+-- Connect to database
+mysql -h localhost -u root -p
+
+-- Enter password:
+
 -- Show Databases present in the server
 SHOW DATABASES;
+
+-- new line
+mysql>
 /*
 +--------------------+
 | Database           |
