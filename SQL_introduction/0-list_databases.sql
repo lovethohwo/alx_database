@@ -1,7 +1,7 @@
 -- Show Databases
 
 -- Connect to database
-mysql -h localhost -u root -p
+-h localhost -u root -p
 
 -- Enter password:
 
