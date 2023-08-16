@@ -3,8 +3,6 @@
 -- Show Databases present in the server
 SHOW DATABASES;
 
--- new line
-mysql>
 /*
 +--------------------+
 | Database           |
