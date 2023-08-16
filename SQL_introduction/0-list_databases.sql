@@ -1,4 +1,5 @@
-mysql> show databases;
+-- Show Databases present in the server
+mysql> SHOW DATABASES;
 /*
 +--------------------+
 | Database           |
