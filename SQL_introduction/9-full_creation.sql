@@ -1,6 +1,6 @@
 -- First create a new table
 CREATE TABLE IF NOT EXISTS
-hbtn_0c_0.second_table (id INT,
+hbtn_test_db_9.second_table (id INT,
 name VARCHAR(256),
 score INT);
 -- Then insert the values
