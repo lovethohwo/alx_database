@@ -7,11 +7,11 @@ hbtn_test_db_5.first_table
     name VARCHAR(128)
 );
 
+SET @table_name ='first_table';
 --Describe full details
-SELECT COLUMN_NAME, COLUMN_TYPE, IS_NULLABLE, COLUMN_DEFAULT, COLUMN_KEY, EXTRA
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_SCHEMA = 'hbtn_test_db_5'
-AND TABLE_NAME = 'first_table';
+SELECT * 
+FROM INFORMATION_SCHEMA.COLUMNS 
+WHERE TABLE_NAME = @table_name;
 
 
 /*
