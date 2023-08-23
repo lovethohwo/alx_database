@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS first_table
 /*
 *** BELOW IS THE RESULT ***
 
-mysql> CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
+mysql> CREATE DATABASE IF NOT EXISTS use;
 Query OK, 1 row affected (0.14 sec)
 
 mysql> CREATE TABLE IF NOT EXISTS
