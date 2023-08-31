@@ -1,0 +1,1 @@
+I'll be focused on how to grant users certain privileges in sql
